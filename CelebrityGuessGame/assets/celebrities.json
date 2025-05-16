@@ -1,0 +1,12 @@
+{
+  "celebrities": [
+    {
+      "name": "Robert Downey Jr.",
+      "imageUrl": "https://link_to_image"
+    },
+    {
+      "name": "Scarlett Johansson",
+      "imageUrl": "https://link_to_image"
+    }
+  ]
+}
