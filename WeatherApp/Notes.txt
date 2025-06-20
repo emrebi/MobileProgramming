@@ -1,0 +1,3 @@
+API anahtarınızı "YOUR_API_KEY" yerine girmeniz gerekmektedir.
+API sağlayıcısı: https://openweathermap.org/api
+Ücretsiz üyelik ile API key alınabilir.
